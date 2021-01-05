@@ -1,0 +1,28 @@
+{
+  "name": "CheapProxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrClottom/CheapProxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrClottom/CheapProxy/issues"
+  },
+  "homepage": "https://github.com/MrClottom/CheapProxy#readme",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "eslint": "^7.16.0",
+    "eslint-plugin-prettier": "^3.3.0"
+  }
+}
